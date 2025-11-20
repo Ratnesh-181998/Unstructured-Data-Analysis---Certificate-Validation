@@ -164,6 +164,9 @@ These are the following checks required
 Outcome: Solution showcases the validated checks result in json format containing consolidated 
 scores, checks and respective check status. 
 
+<img width="1091" height="670" alt="image" src="https://github.com/user-attachments/assets/e5d62129-5fb5-4595-89fe-f2628bfa22e8" />
+
+
 <img width="1407" height="981" alt="image" src="https://github.com/user-attachments/assets/6482aa61-cfc6-42a7-8550-91e1ffc226d3" />
 
 
